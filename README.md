@@ -32,55 +32,56 @@ Classic RPG top-down views
 * Click on dropped items to immeditely pick them up.
 * Drag items from items bar to target, apply item effect to target/target area.
 * Multi terran surfaces with different elementary effects: 
-  ** fire
-  ** water
-  ** ice
-  ** thunder
-  ** thorns, dirt spikes, poison, steam, thunder cloud, swamp, explosion, electric water.
+  * fire
+  * water
+  * ice
+  * thunder
+  * thorns
+  * dirt spikes, poison, steam, thunder cloud, swamp, explosion, electric water.
 * Elementary attack will injure enemies and create relevant elementary terran surfaces.
 * Merge different elements will transfer to new elements.
-  ** self + self = self(Renew duration)
-  ** fire + water = steam
-  ** fire + ice = water
-  ** fire + thorn = fire
-  ** fire + poison = explosion + fire
-  ** fire + steam = nothing
-  ** fire + swamp = dirt spike
-  ** fire + electric water = thunder cloud
-  ** water + ice = water
-  ** water + thunder = electric water
-  ** water + thorns = thorns(Renew duration)
-  ** water + dirt spikes = swamp
-  ** water + poison = water
-  ** water + steam = water
-  ** water + thunder cloud = electric water
-  ** water + swamp = water
-  ** water + explosion = water
-  ** water + electric water = electric water(Renew duration)
-  ** ice + thunder = electric water
-  ** ice + thorns = ice
-  ** ice + dirt spikes = dirt spikes(Renew duration)
-  ** ice + poison = ice
-  ** ice + steam = water
-  ** ice + thunder cloud = electric water
-  ** ice + swamp = ice
-  ** ice + explosion = water
-  ** ice + electric water = ice
-  ** thunder + thorns = explosion
-  ** thunder + dirt spikes = explosion
-  ** thunder + poison = explosion
-  ** thunder + steam = thunder cloud
-  ** thunder + thunder cloud = thunder cloud(Renew duration)
-  ** thunder + swamp = electric water
-  ** thunder + electric water = electric water(Renew duration)
-  ** thunder + explosion = explosion
-  ** thorns + dirt spikes = thorns
-  ** thorns + poison = poison(Renew duration)
-  ** thorns + steam = thorns
-  ** thorns + thunder cloud = explosion
-  ** thorns + swamp = thorn
-  ** thorns + electric water = thorns
-  ** thorns + explosion = fire
+  * self + self = self(Renew duration)
+  * fire + water = steam
+  * fire + ice = water
+  * fire + thorn = fire
+  * fire + poison = explosion + fire
+  * fire + steam = nothing
+  * fire + swamp = dirt spike
+  * fire + electric water = thunder cloud
+  * water + ice = water
+  * water + thunder = electric water
+  * water + thorns = thorns(Renew duration)
+  * water + dirt spikes = swamp
+  * water + poison = water
+  * water + steam = water
+  * water + thunder cloud = electric water
+  * water + swamp = water
+  * water + explosion = water
+  * water + electric water = electric water(Renew duration)
+  * ice + thunder = electric water
+  * ice + thorns = ice
+  * ice + dirt spikes = dirt spikes(Renew duration)
+  * ice + poison = ice
+  * ice + steam = water
+  * ice + thunder cloud = electric water
+  * ice + swamp = ice
+  * ice + explosion = water
+  * ice + electric water = ice
+  * thunder + thorns = explosion
+  * thunder + dirt spikes = explosion
+  * thunder + poison = explosion
+  * thunder + steam = thunder cloud
+  * thunder + thunder cloud = thunder cloud(Renew duration)
+  * thunder + swamp = electric water
+  * thunder + electric water = electric water(Renew duration)
+  * thunder + explosion = explosion
+  * thorns + dirt spikes = thorns
+  * thorns + poison = poison(Renew duration)
+  * thorns + steam = thorns
+  * thorns + thunder cloud = explosion
+  * thorns + swamp = thorn
+  * thorns + electric water = thorns
+  * thorns + explosion = fire
   
 ### Game Goals
 Kill all enemies.

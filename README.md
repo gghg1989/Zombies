@@ -1,6 +1,14 @@
 # Zombies
-## Introduction
+Zombies is a rogue-like shooting defencing game that features over a hundred of weapons and magics.
+
 ### System Requirement
+MINIMUM:
+OS: Windows 7 or later; Mac OS X 10.9 or later; Ubuntu 16.04+, SteamOS+.
+Processor: Intel Core i3
+Memory: 4 GB RAM
+DirectX: Version 9.0c
+Storage: 1 GB available space
+Additional Notes: Gamepad support for XInput devices
 
 ## Theme
 ### Game World
@@ -14,12 +22,15 @@
 
 ## Game Play
 ### View 
+Classic RPG top-down views
 ### Control
+* Mouse left single click
+* Touch
 ### Combats
 ### Game Goals
-### Levels
-#### Main task
-#### Branch task
+### Game modes
+* Levels
+* Endless
 
 ## Arts
 ### Concept

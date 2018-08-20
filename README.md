@@ -3,12 +3,12 @@ Zombies is a cross-platform rogue-like shooting defencing game that features ove
 
 ### System Requirement
 MINIMUM:
-OS: Windows 7 or later; Mac OS X 10.9 or later; Ubuntu 16.04+, SteamOS+; IOS, Android
-Processor: Intel Core i3
-Memory: 4 GB RAM
-DirectX: Version 9.0c
-Storage: 1 GB available space
-Additional Notes: Gamepad support for XInput devices
+* OS: Windows 7 or later; Mac OS X 10.9 or later; Ubuntu 16.04+, SteamOS+; IOS, Android
+* Processor: Intel Core i3
+* Memory: 4 GB RAM
+* DirectX: Version 9.0c
+* Storage: 1 GB available space
+* Additional Notes: Gamepad support for XInput devices
 
 ## Theme
 ### Game World
